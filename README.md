@@ -9,7 +9,7 @@ This app acts as a vocab trainer. It's meant for me to use to grow my understand
 
 (_NOTE:_ you'll notice my .env file is pushed to github. This is by design as it is set up with relative paths. This ensures that it will work on anyone's machine.)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_-Y6gRRgJMo)
 
 # Development Environment
 
