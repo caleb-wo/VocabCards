@@ -1,0 +1,4 @@
+name,definition,correctTally,incorrectTally,accuracyRating,genre,isRetired
+Encapsulation,Wrapping data and behavior into a single unit,6,2,0.75,COMPUTER_SCIENCE,false
+Optional,A Java class that acts as a container for data,1,2,0.00,JAVA,false
+Algorithm,A step-by-step procedure for solving a problem,13,1,1.00,COMPUTER_SCIENCE,false
